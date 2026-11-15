@@ -88,33 +88,21 @@ I'm interested in building useful software, exploring intelligent systems, and t
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=HarshGour-01&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C9A96E&icon_color=C9A96E&text_color=E8DFC9&rank_icon=github" alt="GitHub contribution statistics" />
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshGour-01&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=C9A96E&text_color=E8DFC9" alt="Most used programming languages" />
-
-</td>
-</tr>
-</table>
-
-<a href="https://github.com/HarshGour-01?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-C9A96E?style=for-the-badge&logo=github&logoColor=111111" alt="Explore repositories" />
-</a>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=HarshGour-01&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C9A96E&icon_color=C9A96E&text_color=E8DFC9&rank_icon=github"
+  alt="Harsh Gour's GitHub statistics"
+  width="49%"
+/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshGour-01&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=C9A96E&text_color=E8DFC9"
+  alt="Harsh Gour's most used languages"
+  width="49%"
+/>
 
 <br /><br />
 
-<a href="https://www.linkedin.com/in/harsh-gour-45aa0941a">
-  <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-171717?style=for-the-badge&logo=linkedin&logoColor=C9A96E" alt="Connect on LinkedIn" />
-</a>
-
-<br /><br />
-
-<sub>Building consistently. Learning every day. ✦</sub>
+<a href="https://github.com/HarshGour-01?tab=repositories">EXPLORE ALL REPOSITORIES ↗</a>
+&nbsp; · &nbsp;
+<a href="https://www.linkedin.com/in/harsh-gour-45aa0941a">CONNECT ON LINKEDIN ↗</a>
 
 </div>
