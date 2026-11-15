@@ -64,12 +64,10 @@ I'm interested in building useful software, exploring intelligent systems, and t
 
 | Project | What it is | Focus |
 |:--|:--|:--|
-| **[Mitra](https://github.com/HarshGour-01/Mitra)** | Academia–industry collaboration platform concept connecting students, institutions, and industry | Platform · Collaboration |
-| **Nexora AI** | Personal assistant concept exploring conversational AI, voice interaction, and automation | AI · Voice · Automation |
 | **Bank Management System** | C++ learning project applying object-oriented programming concepts | C++ · OOP |
 | **Library Management System** | C++ project focused on abstraction and object-oriented design | C++ · Abstraction |
 
-> Project links are included only where a repository URL is available. More demos and project details will be added as they are published.
+> Repository links will be added only when the corresponding project repository is publicly available.
 
 ## ◈ Learning Roadmap
 
