@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="assets/github-hero.svg" alt="Harsh Gour — cinematic black and gold developer banner" width="100%" />
+
+</div>
+
 <!--
   HARSH GOUR — GitHub Profile README
   Palette: Black · Gold · Champagne
