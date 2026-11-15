@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="300" viewBox="0 0 1100 300" fill="none">
+<defs>
+  <linearGradient id="gold" x1="90" y1="30" x2="1010" y2="270" gradientUnits="userSpaceOnUse"><stop stop-color="#E8DFC9"/><stop offset=".48" stop-color="#C9A96E"/><stop offset="1" stop-color="#8D6B36"/></linearGradient>
+  <linearGradient id="panel" x1="0" y1="0" x2="1100" y2="300" gradientUnits="userSpaceOnUse"><stop stop-color="#171717"/><stop offset="1" stop-color="#0B0B0D"/></linearGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#C9A96E" opacity=".18"/></pattern>
+</defs>
+<rect x="1" y="1" width="1098" height="298" rx="22" fill="url(#panel)" stroke="#6E5938" stroke-opacity=".65"/>
+<rect x="1" y="1" width="1098" height="298" rx="22" fill="url(#dots)" opacity=".5"/>
+<circle cx="875" cy="150" r="112" stroke="url(#gold)" stroke-opacity=".55"/>
+<circle cx="875" cy="150" r="82" stroke="#C9A96E" stroke-opacity=".35" stroke-dasharray="3 9"/>
+<circle cx="875" cy="150" r="52" stroke="#E8DFC9" stroke-opacity=".25"/>
+<path d="M780 150c44-58 83 58 127 0s83 58 127 0" stroke="url(#gold)" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="875" cy="38" r="5" fill="#E8DFC9"/><circle cx="987" cy="150" r="5" fill="#C9A96E"/><circle cx="763" cy="150" r="4" fill="#C9A96E"/>
+<text x="76" y="83" fill="#C9A96E" font-family="Arial,sans-serif" font-size="13" letter-spacing="4">GITHUB / ACTIVITY</text>
+<text x="76" y="139" fill="#F2EBDD" font-family="Arial,sans-serif" font-size="39" font-weight="700">Build. Learn. Repeat.</text>
+<text x="78" y="179" fill="#B7B0A2" font-family="Arial,sans-serif" font-size="17">A little progress, consistently made.</text>
+<path d="M78 215h440" stroke="#C9A96E" stroke-opacity=".4"/>
+<text x="78" y="251" fill="#E8DFC9" font-family="Arial,sans-serif" font-size="12" letter-spacing="2.5">CODE  ·  CREATE  ·  CONTRIBUTE</text>
+<rect x="76" y="272" width="44" height="3" rx="1.5" fill="url(#gold)"/>
+</svg>
